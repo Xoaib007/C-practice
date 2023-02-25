@@ -31,7 +31,7 @@ int main(void)
 }
 ```
 
-## Make a 5x5 block
+## Make a block
 
 ```C
 # include <stdio.h>
@@ -39,7 +39,7 @@ int main(void)
 
 int main(void)
 {
-    const int n = 5;
+    const int n = get_int("size:");
     for (int i = 0 ; i < n ; i++)
     {
         for (int j = 0 ; j < n ; j++)
