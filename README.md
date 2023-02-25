@@ -31,6 +31,11 @@ int main(void)
 }
 ```
 
+## For loop
+## While loop
+## Do...While loop
+
+
 ## Make a block
 
 ```C
