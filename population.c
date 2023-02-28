@@ -1,3 +1,4 @@
+// Print how many years does it take to reach the goal population
 #include <stdio.h>
 #include <cs50.h>
 
@@ -11,15 +12,17 @@ int main(void)
 
 
     int year = 0;
-    while(current < goal)
+    while(current <= goal)
     {
-        current += current / 12;
+        current += current / 3;
+        current -= current / 4;
         year++;
     }
 
-    printf("%i years need to reach the goal population.\n", year);
+    printf("Years: %i\n", year);
 }
 
+// Get current population
 int get_current(void)
 {
     int n;
@@ -31,6 +34,7 @@ int get_current(void)
     return n;
 }
 
+// Get goal population
 int get_goal(int get_current)
 {
     int n;
