@@ -8,7 +8,7 @@
 - Selection Sort
 - Merge Sort
 
-//
+<!--
   Bubble Sort
   Selection Sort
   Insertion Sort
@@ -19,4 +19,4 @@
   Bucket Sort
   Heap Sort
   Shell Sort
-//
+-->
