@@ -24,5 +24,5 @@ int find_factorial(int n)
       return(1);
    }
    //Function calling itself: recursion
-   return(n*find_factorial(n-1));
+   return (n*find_factorial(n-1));
 }
