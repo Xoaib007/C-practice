@@ -3,6 +3,8 @@
 ## Search algorithms
 - Linear search
 - Binary search
+  - Iterative method
+  - Recursive method
 ## Sort algorithms
 - Bubble Sort
 - Selection Sort
