@@ -1,5 +1,8 @@
 # Memory
 
+- Hexadecimal
 - Pointer
-- malloc
-- free
+- Dynamic memory
+  - malloc
+  - free
+- File
