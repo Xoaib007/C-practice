@@ -15,6 +15,8 @@ int main() {
   x[2] = 3;
   
   free(x);
+  
+  return 0;
 }
 
 
