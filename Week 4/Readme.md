@@ -1,0 +1,5 @@
+# Memory
+
+- Pointer
+- malloc
+- free
