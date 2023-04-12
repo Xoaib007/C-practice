@@ -27,7 +27,7 @@ printf("%p\n", &myAge);
 printf("%p\n", ptr);
 ```
 
-Here ptr is a pointer that points to an int variable myAge. & operator is usefd to store the memory address of the myAge variable, and assign it to the pointer.
+Here ptr is a pointer that points to an int variable myAge. & operator is useed to store the memory address of the myAge variable, and assign it to the pointer.
 
 
 
