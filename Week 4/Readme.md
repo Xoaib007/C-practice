@@ -6,6 +6,7 @@
   - malloc
   - free
 - File
+  - buffer
 
 
 ## Pointer
