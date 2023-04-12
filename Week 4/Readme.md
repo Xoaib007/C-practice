@@ -8,6 +8,8 @@
 - File
 
 
+## Pointer
+
 Pointer is a special kind of variavble that stores the memory location of a variable.
 
 ```C
@@ -23,4 +25,6 @@ printf("%p\n", &myAge);
 // Output the memory address of myAge with the pointer (0x7ffe5367e044)
 printf("%p\n", ptr);
 ```
+
+
 
